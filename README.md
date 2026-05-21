@@ -1,7 +1,7 @@
 <div align="center">
 
 # Pablo Iglesias Peral
-### Fullstack Developer · Laravel · Python · PHP
+### Fullstack Developer · Python · PHP · JavaScript
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pablo--iglesias--peral-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/pablo-iglesias-peral)
 [![Email](https://img.shields.io/badge/Email-pablo.iglesias.peral@gmail.com-EA4335?style=flat&logo=gmail)](mailto:pablo.iglesias.peral@gmail.com)

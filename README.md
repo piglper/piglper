@@ -19,7 +19,7 @@ Apasionado por el **backend** y por construir sistemas que funcionen bien de ver
 
 ---
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 **Backend**
 
@@ -51,7 +51,7 @@ Apasionado por el **backend** y por construir sistemas que funcionen bien de ver
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 ### [PadelSync](https://github.com/piglper/padelsync) — Gestión Integral de Club de Pádel
 > Proyecto Final de Grado · DAW · 2025/2026
@@ -59,20 +59,20 @@ Apasionado por el **backend** y por construir sistemas que funcionen bien de ver
 Aplicación web fullstack para la gestión completa de un club de pádel desde tres roles diferenciados: administrador, entrenador y jugador.
 
 **Funcionalidades principales:**
-- 🎾 Sistema de reservas de pistas con precios dinámicos diurno/nocturno
-- 📊 Dashboard admin con gráficos interactivos de ocupación e ingresos (ECharts)
-- 🏫 Gestión de clases con inscripciones y validación de solapamientos
-- 📧 Sistema de emails transaccionales via Brevo HTTP API (adaptado a restricciones Railway)
-- ⏱️ Scheduler automatizado con endpoint protegido + cron-job.org
-- 🔔 Sistema de notificaciones en base de datos por eventos
+- Sistema de reservas de pistas con precios dinámicos diurno/nocturno
+- Dashboard admin con gráficos interactivos de ocupación e ingresos (ECharts)
+- Gestión de clases con inscripciones y validación de solapamientos
+- Sistema de emails transaccionales via Brevo HTTP API (adaptado a restricciones Railway)
+- Scheduler automatizado con endpoint protegido + cron-job.org
+- Sistema de notificaciones en base de datos por eventos
 
 **Stack:** `Laravel 12` · `Livewire Volt` · `Alpine.js` · `MySQL` · `Docker` · `Railway`
 
-🔗 [Ver repositorio](https://github.com/piglper/padelsync) · 🌐 [Demo en producción](https://prueba1-tfg-production.up.railway.app)
+[Ver repositorio](https://github.com/piglper/padelsync) · [Demo en producción](https://prueba1-tfg-production.up.railway.app)
 
 ---
 
-## 💼 Experiencia actual
+## Experiencia actual
 
 **Desarrollador de Software @ Konecta** *(marzo 2025 – actualidad)*
 - Desarrollo web fullstack en intranets empresariales (PHP, Laravel, JavaScript, jQuery, AJAX)
@@ -81,7 +81,7 @@ Aplicación web fullstack para la gestión completa de un club de pádel desde t
 
 ---
 
-## 🌐 Idiomas
+## Idiomas
 
 - 🇪🇸 Español — Nativo
 - 🇬🇧 Inglés — B2 (Cambridge English: First, 2019)

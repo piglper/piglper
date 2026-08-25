@@ -15,7 +15,7 @@
 
 Técnico Superior en Desarrollo de Aplicaciones Web, con formación previa en Ingeniería Informática en la Universidad de Sevilla. Actualmente trabajando como **Desarrollador de Software en Konecta**, desarrollando aplicaciones web fullstack en entornos de producción reales.
 
-Apasionado por el **backend** y por construir sistemas que funcionen bien de verdad: limpios, eficientes y desplegados.
+Apasionado por el **backend** y por construir sistemas que funcionen bien de verdad: limpios y eficientes.
 
 ---
 
